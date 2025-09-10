@@ -1,4 +1,4 @@
 # Obsidian-PubPanel
 Test Video
 
-![video](https://github.com/user-attachments/assets/b5cf6b9c-454e-441e-a80c-baf28af0b6c0)
+![Image](https://github.com/user-attachments/assets/1dc91960-4bb9-4f65-a4cb-75bf7e7585dd)
